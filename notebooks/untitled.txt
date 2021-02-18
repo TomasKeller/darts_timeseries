@@ -1,0 +1,3 @@
+Darts: Time Series Made Easy in Python
+
+Could be good, need to read more to fully understand
